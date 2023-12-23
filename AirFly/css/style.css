@@ -1,0 +1,186 @@
+.img1 {
+    width: 40%;
+}
+#nav{
+    background-color: rgb(175, 221, 240);
+}
+
+#Nikk li:hover {
+    background-color: rgb(255, 190, 69);
+    border-radius: 6px;
+}
+
+#main {
+    background: url(../images/bg-1.jpg) no-repeat;
+
+    /* background-color: rgb(233, 229, 224); */
+}
+
+#plane img {
+    width: 100%;
+}
+
+#im,
+#im1,
+#im2,
+#im3,
+#im4,
+#im5,
+#im6,
+#im7,
+#im8 {
+    width: 20%;
+}
+
+#check {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/check.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+#features {
+    background: rgb(211, 233, 233);
+}
+
+#features #b h5,
+#d1,
+#d2,
+#d3,
+#d4,
+#d5,
+#d6 {
+    color: rgb(243, 170, 107);
+
+}
+
+#N1:hover {
+    background-color: rgb(238, 149, 32);
+    color: white;
+}
+
+#N2:hover {
+    background-color: rgb(238, 149, 32);
+    color: white;
+}
+
+#N3:hover {
+    background-color: rgb(238, 149, 32);
+    color: white;
+}
+#h5,#h6{
+    color: rgb(238, 149, 32);
+}
+
+#a {
+    margin: 20px 0px 0px -100px;
+}
+
+#c {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/bg_c.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#package {
+    background-color: rgb(18, 39, 51);
+}
+
+#BlockQuote,#BlockQuote1 {
+    margin: -65px 0px 0px 80px;
+}
+
+#services,
+#services1,
+#services2,
+#services3,
+#services4,
+#services5 {
+    color: rgba(255, 165, 91, 0.842);
+}
+
+
+#quote {
+    margin: -80px 0px 0px 70px;
+}
+
+#list1,
+#list2 {
+    width: 23%;
+}
+
+#testimonials {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/client_plane.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#Partners {
+    background-color: aliceblue;
+
+}
+
+#footer {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/img1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+#f1 {
+    background-color: rgba(207, 226, 225, 0.959);
+}
+
+#f1 #form {
+    margin-top: 140px;
+}
+
+#footer img {
+    width: 50%;
+}
+
+#last {
+    background-color: rgb(235, 72, 13);
+}
+
+
+@media only screen and (max-width:576px) {
+
+    #bar {
+        margin: -40px 0px 0px 0px;
+    }
+
+    #list1,
+    #list2 {
+        width: 30%;
+    }
+
+}
+
+@media only screen and (min-width:768px) {
+
+    #video {
+        width: 700px;
+        height: 400px;
+    }
+
+    #list1,
+    #list2 {
+        width: 30%;
+    }
+}
+
+@media only screen and (min-width:992px) {
+
+    #video {
+        width: 1000px;
+        height: 500px;
+    }
+
+    #list1,
+    #list2 {
+        width: 23%;
+    }
+}
