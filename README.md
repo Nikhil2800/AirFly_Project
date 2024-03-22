@@ -2,7 +2,7 @@
 Project Name: Airfly
 
 Project Description:
-I built this AirFly Project by using HTML5, CSS3 AND Bootstrap.
+I built this AirFly Project by using HTML5, CSS3 & Bootstrap.
 I also made this project fully responsive by utilizing Bootstrap Grid's Row and Column Systems.
 
 Technologies Used:
